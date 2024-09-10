@@ -1,0 +1,10 @@
+E:\studying\Захист інформації\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+E:\studying\Захист інформації\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+E:\studying\Захист інформації\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+E:\studying\Захист інформації\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+E:\studying\Захист інформації\lab2\lab2\obj\Debug\lab2.Form1.resources
+E:\studying\Захист інформації\lab2\lab2\bin\Debug\lab2.exe.config
+E:\studying\Захист інформації\lab2\lab2\bin\Debug\lab2.exe
+E:\studying\Захист інформації\lab2\lab2\bin\Debug\lab2.pdb
+E:\studying\Захист інформації\lab2\lab2\obj\Debug\lab2.exe
+E:\studying\Захист інформації\lab2\lab2\obj\Debug\lab2.pdb

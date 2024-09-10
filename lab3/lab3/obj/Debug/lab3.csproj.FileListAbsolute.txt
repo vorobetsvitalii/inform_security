@@ -1,0 +1,10 @@
+E:\studying\Захист інформації\lab3\lab3\bin\Debug\lab3.exe.config
+E:\studying\Захист інформації\lab3\lab3\bin\Debug\lab3.exe
+E:\studying\Захист інформації\lab3\lab3\bin\Debug\lab3.pdb
+E:\studying\Захист інформації\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+E:\studying\Захист інформації\lab3\lab3\obj\Debug\lab3.Form1.resources
+E:\studying\Захист інформації\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+E:\studying\Захист інформації\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+E:\studying\Захист інформації\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\studying\Захист інформації\lab3\lab3\obj\Debug\lab3.exe
+E:\studying\Захист інформації\lab3\lab3\obj\Debug\lab3.pdb

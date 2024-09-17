@@ -1,0 +1,10 @@
+D:\studying\Захист інформації\lab4\lab4\bin\Debug\lab4.exe.config
+D:\studying\Захист інформації\lab4\lab4\bin\Debug\lab4.exe
+D:\studying\Захист інформації\lab4\lab4\bin\Debug\lab4.pdb
+D:\studying\Захист інформації\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+D:\studying\Захист інформації\lab4\lab4\obj\Debug\lab4.Form1.resources
+D:\studying\Захист інформації\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\studying\Захист інформації\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+D:\studying\Захист інформації\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\studying\Захист інформації\lab4\lab4\obj\Debug\lab4.exe
+D:\studying\Захист інформації\lab4\lab4\obj\Debug\lab4.pdb
